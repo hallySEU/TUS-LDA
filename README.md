@@ -1,5 +1,5 @@
 # TUS-LDA
-Implementation of TUS-LDA Model Proposed in ICAI16.
+Implementation of TUS-LDA Model Proposed in ICAI16 for Sentiment Analysis.
 
 More details can found in the following paper:
 
