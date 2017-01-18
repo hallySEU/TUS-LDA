@@ -1,5 +1,5 @@
 # TUS-LDA
-Implementation of TUS-LDA model proposed in ICAI16.
+Implementation of TUS-LDA Model Proposed in ICAI16.
 
 More details can found in the following paper:
 
